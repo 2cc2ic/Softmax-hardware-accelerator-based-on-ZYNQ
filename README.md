@@ -4,7 +4,7 @@ Design a complete IP, including AXI data reading, pipeline algorithm optimizatio
 
 ***
 
-本项目是我担任队长负责所有代码编写和项目报告撰写，参加全国大学生集成电路创新创业大赛的参赛项目。
+本项目是我参加 全国大学生集成电路创新创业大赛 中星微杯的参赛项目。
 
 
 
